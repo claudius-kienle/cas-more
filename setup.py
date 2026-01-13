@@ -3,7 +3,6 @@ from setuptools import setup
 setup(
     name='cas-more',
     version='0.1',
-    packages=['cas-more'],
     url='',
     license='MIT',
     author='Maximilian Hüttenrauch',
